@@ -4,4 +4,16 @@ cons: transfer difficulties, variable goals
 
 
 Explain the role and responsibilities of the Srum Master vs the Product Owner 
-A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. Product Owners manage the product backlog and ensure the company gains maximum value from the product.
+A Scrum Master leads the Agile development team and supports the Product Owner by relaying updates to relevant employees. Product Owners manage the product backlog and ensure the company gains maximum value from the product.
+
+What are the 3 types of meetings that happen during a sprint cycle
+Sprint planning meeting- what task are assigned to each person and what team gets what tasks 
+
+Daily standup meeting- daily blockages and what tasks are being done
+
+Sprint review meeting- what tasks were completed vs what were slipped 
+
+Sprint retrospective meeting- how progress and success were achieved and what to do next
+
+
+
