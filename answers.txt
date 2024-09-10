@@ -16,4 +16,12 @@ Sprint review meeting- what tasks were completed vs what were slipped
 Sprint retrospective meeting- how progress and success were achieved and what to do next
 
 
+Differentiate between Epic, Story, Bug, and Tast issue types in JIRA
 
+An Epic captures a large body of work. It is essentially a large user story that can be broken down into a number of smaller stories. It may take several sprints to complete an epic.
+
+A Story or user story is a software system requirement that is expressed in a few short sentences, ideally using non-technical language
+
+A Task represents a technical activity, like design a diagram, code a functionality, test a device, or prepare dataset
+
+A Bug is a blocker or something that is preventing task from being completed
